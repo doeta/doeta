@@ -1,7 +1,7 @@
 <!-- Animasi Ketik -->
 <p align="center">
   <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Duta;Welcome+to+my+GitHub!" 
+       src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Duta+Adi+Pamungkas;Welcome+to+my+GitHub!" 
        alt="Typing SVG" />
 </p>
 
