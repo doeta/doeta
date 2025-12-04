@@ -1,58 +1,74 @@
-<p align="center">
-  <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=36&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Duta+Adi+Pamungkas;Welcome+to+my+GitHub!" 
-       alt="Typing SVG" />
+<div align="center">
+
+<table style="border-collapse: collapse; width: 100%; border: 2px solid #000000; border-bottom: none;">
+<tr>
+<td width="30%" align="center" style="border: 2px solid #000000; padding: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" style="object-fit: cover; border-radius: 8px; max-width: 250px;" />
+</td>
+<td width="70%" style="border: 2px solid #000000; padding: 25px; text-align: left; vertical-align: middle;">
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=000000&style=flat-square" alt="Profile Views" />
+</div>
+<h1 style="margin-top: 0; font-size: 3.2em; letter-spacing: -1px;">Hi there, I'm Duta.</h1>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false" alt="Typing SVG" />
+</a>
+</td>
+</tr>
+</table>
+
+<table style="border-collapse: collapse; width: 100%; border: 2px solid #000000; border-top: none; border-bottom: none;">
+<tr>
+<td width="70%" valign="top" style="border: 2px solid #000000; padding: 25px; text-align: left;">
+<h2 style="margin-top: 0; font-size: 2em;">The Story So Far</h2>
+<p style="font-size: 1.1em; line-height: 1.6;">
+Currently surviving Informatics at <b>Diponegoro University (UNDIP)</b>. My main grind is <b>Software Engineering</b>—I love turning complex problems into clean code.
 </p>
-<br>
+<p style="font-size: 1.1em; line-height: 1.6;">
+Lately, I have been eyeing the <b>Cyber Security</b> scene; I haven't really dived into it yet, but I am definitely curious to learn more about the security side of tech soon.
+<br/><br/>
+Always down to build cool stuff or discuss the latest tech.
+</p>
+</td>
+<td width="30%" align="center" style="border: 2px solid #000000; padding: 20px; vertical-align: middle;">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" style="object-fit: cover; border-radius: 8px; max-width: 250px;" />
+</td>
+</tr>
+</table>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="Funny Cat Gif" />
+<table style="border-collapse: collapse; border: 2px solid #000000; width: 100%; border-top: none;">
+<tr>
+<td width="35%" align="center" style="border: 2px solid #000000; padding: 25px;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRzNWZqazBqZzQ2aHo5cmZvMWs2NjV5d2Yza2F6czNxY2g3azhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjzB3e2voU7iE/giphy.gif" width="180" height="180" style="border-radius: 12px; border: 3px solid #000; object-fit: cover;" />
+</td>
+
+<td width="65%" style="border: 2px solid #000000; padding: 25px; vertical-align: middle; position: relative;">
+<div style="position: absolute; top: 20px; right: 25px; font-size: 0.7em; font-weight: bold; letter-spacing: 1px;">NOW PLAYING</div>
+
+<div style="margin-top: 15px;">
+  <h2 style="margin: 0; font-size: 2.2em; letter-spacing: -1px; line-height: 1;">About You</h2>
+  <p style="margin: 8px 0 0 0; font-size: 1.1em; color: #444; font-weight: 500;">The 1975</p>
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### 💻 Programming Language
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 🖥️ Frameworks & Libraries
-
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)](https://reactjs.org/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-
-### 🔧 Tools & Workflow
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
----
-
-##
-
-<div align="center">
-    <h2>📊 GitHub Overview</h2>
-    <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=doeta&show_icons=true&title_color=0A66C2&icon_color=0A66C2&text_color=333&bg_color=F9F9F9&border_color=CCCCCC&hide_border=true&rank_icon=github&cache_bust=2" 
-        alt="GitHub Stats" />
-    <img 
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=doeta&layout=compact&title_color=0A66C2&text_color=333&bg_color=F9F9F9&border_color=CCCCCC&hide_border=true&langs_count=6&cache_bust=2" 
-        alt="Top Languages" />
+<div style="font-family: monospace; font-size: 1em; display: flex; justify-content: space-between; align-items: center; color: #222;">
+  <span>1:04</span>
+  <span style="margin: 0 15px; letter-spacing: -1px;">██████░░░░░░░░░░░░░░</span>
+  <span>5:26</span>
 </div>
 
----
+<br/>
 
----
+<div style="display: flex; justify-content: center; gap: 25px; font-size: 1.8em; align-items: center; margin-bottom: 10px;">
+  <span style="color: #888; font-size: 0.8em;">🔀</span>
+  <span style="cursor: pointer;">⏮</span>
+  <span style="font-size: 1.3em; cursor: pointer;">▶</span>
+  <span style="cursor: pointer;">⏭</span>
+  <span style="color: #888; font-size: 0.8em;">🔁</span>
+</div>
+</td>
+</tr>
+</table>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=doeta&label=Profile%20Views&color=0A66C2&style=flat" alt="Profile Views" />
 </div>
