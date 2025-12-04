@@ -10,9 +10,15 @@
 <img src="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=000000&style=flat-square" alt="Profile Views" />
 </div>
 <h1 style="margin-top: 0; font-size: 3.2em; letter-spacing: -1px;">Hi there, I'm Duta.</h1>
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
+  </picture>
 </a>
+
 </td>
 </tr>
 </table>
@@ -43,16 +49,16 @@ Always down to build cool stuff or discuss the latest tech.
 </td>
 
 <td width="65%" style="border: 2px solid #000000; padding: 25px; vertical-align: middle; position: relative;">
-<div style="position: absolute; top: 20px; right: 25px; font-size: 0.7em; font-weight: bold; letter-spacing: 1px;">NOW PLAYING</div>
+<div style="position: absolute; top: 20px; right: 25px; font-size: 0.7em; font-weight: bold; letter-spacing: 1px; opacity: 0.7;">NOW PLAYING</div>
 
 <div style="margin-top: 15px;">
   <h2 style="margin: 0; font-size: 2.2em; letter-spacing: -1px; line-height: 1;">About You</h2>
-  <p style="margin: 8px 0 0 0; font-size: 1.1em; color: #444; font-weight: 500;">The 1975</p>
+  <p style="margin: 8px 0 0 0; font-size: 1.1em; font-weight: 500; opacity: 0.8;">The 1975</p>
 </div>
 
 <br/>
 
-<div style="font-family: monospace; font-size: 1em; display: flex; justify-content: space-between; align-items: center; color: #222;">
+<div style="font-family: monospace; font-size: 1em; display: flex; justify-content: space-between; align-items: center;">
   <span>1:04</span>
   <span style="margin: 0 15px; letter-spacing: -1px;">██████░░░░░░░░░░░░░░</span>
   <span>5:26</span>
@@ -61,11 +67,11 @@ Always down to build cool stuff or discuss the latest tech.
 <br/>
 
 <div style="display: flex; justify-content: center; gap: 25px; font-size: 1.8em; align-items: center; margin-bottom: 10px;">
-  <span style="color: #888; font-size: 0.8em;">🔀</span>
+  <span style="opacity: 0.5; font-size: 0.8em;">🔀</span>
   <span style="cursor: pointer;">⏮</span>
   <span style="font-size: 1.3em; cursor: pointer;">▶</span>
   <span style="cursor: pointer;">⏭</span>
-  <span style="color: #888; font-size: 0.8em;">🔁</span>
+  <span style="opacity: 0.5; font-size: 0.8em;">🔁</span>
 </div>
 </td>
 </tr>
