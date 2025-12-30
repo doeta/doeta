@@ -1,31 +1,45 @@
 <div align="center">
 
-<table style="border-collapse: collapse; width: 100%; border: 2px solid #000000; border-bottom: none;">
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td width="30%" align="center" style="border: 2px solid #000000; padding: 20px;">
+<td width="30%" align="center" style="padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" style="object-fit: cover; border-radius: 8px; max-width: 250px;" />
 </td>
-<td width="70%" style="border: 2px solid #000000; padding: 25px; text-align: left; vertical-align: middle;">
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=000000&style=flat-square" alt="Profile Views" />
+<td width="70%" style="padding: 25px; text-align: left; vertical-align: middle;">
+<div align="right" style="margin-bottom: 10px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=00B2FF&style=flat-square">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=00B2FF&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=doeta&label=VIEWS&color=00B2FF&style=flat-square" alt="Profile Views" />
+</picture>
 </div>
-<h1 style="margin-top: 0; font-size: 3.2em; letter-spacing: -1px;">Hi there, I'm Duta.</h1>
+
+<div align="left" style="position: relative;">
+<div style="display: inline-block; position: relative; overflow: hidden; height: 120px;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=00B2FF&height=120&text=Hey%20I'm%20Duta&fontSize=52&fontColor=ffffff&width=450">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=00B2FF&height=120&text=Hey%20I'm%20Duta&fontSize=52&fontColor=000000&width=450">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00B2FF&height=120&text=Hey%20I'm%20Duta&fontSize=52&fontColor=000000&width=450" style="display: block;" />
+</picture>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsdTVyOGxncmF2aThwNWFuZGR6eTN1ZGdodndranJhbmRtbDg3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f16BJN6PAce138MOy1/giphy.gif" width="80" style="position: absolute; right: 10px; top: 20px;" />
+</div>
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
-    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Fullstack+Developer_;Building+Digital+Dreams..._;Welcome+to+my+repo_&center=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&width=550&lines=Full+Stack+Developer+(Trying);Still+learning_">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Full+Stack+Developer+(Trying);Still+learning_">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&width=550&lines=Full+Stack+Developer+(Trying);Still+learning_">
   </picture>
 </a>
+</div>
 
 </td>
 </tr>
 </table>
 
-<table style="border-collapse: collapse; width: 100%; border: 2px solid #000000; border-top: none; border-bottom: none;">
+<table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td width="70%" valign="top" style="border: 2px solid #000000; padding: 25px; text-align: left;">
+<td width="70%" valign="top" style="padding: 25px; text-align: left;">
 <h2 style="margin-top: 0; font-size: 2em;">The Story So Far</h2>
 <p style="font-size: 1.1em; line-height: 1.6;">
 Currently surviving Informatics at <b>Diponegoro University (UNDIP)</b>. My main grind is <b>Software Engineering</b>—I love turning complex problems into clean code.
@@ -36,43 +50,8 @@ Lately, I have been eyeing the <b>Cyber Security</b> scene; I haven't really div
 Always down to build cool stuff or discuss the latest tech.
 </p>
 </td>
-<td width="30%" align="center" style="border: 2px solid #000000; padding: 20px; vertical-align: middle;">
+<td width="30%" align="center" style="padding: 20px; vertical-align: middle;">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" style="object-fit: cover; border-radius: 8px; max-width: 250px;" />
-</td>
-</tr>
-</table>
-
-<table style="border-collapse: collapse; border: 2px solid #000000; width: 100%; border-top: none;">
-<tr>
-<td width="35%" align="center" style="border: 2px solid #000000; padding: 25px;">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRzNWZqazBqZzQ2aHo5cmZvMWs2NjV5d2Yza2F6czNxY2g3azhmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjzB3e2voU7iE/giphy.gif" width="180" height="180" style="border-radius: 12px; border: 3px solid #000; object-fit: cover;" />
-</td>
-
-<td width="65%" style="border: 2px solid #000000; padding: 25px; vertical-align: middle; position: relative;">
-<div style="position: absolute; top: 20px; right: 25px; font-size: 0.7em; font-weight: bold; letter-spacing: 1px; opacity: 0.7;">NOW PLAYING</div>
-
-<div style="margin-top: 15px;">
-  <h2 style="margin: 0; font-size: 2.2em; letter-spacing: -1px; line-height: 1;">About You</h2>
-  <p style="margin: 8px 0 0 0; font-size: 1.1em; font-weight: 500; opacity: 0.8;">The 1975</p>
-</div>
-
-<br/>
-
-<div style="font-family: monospace; font-size: 1em; display: flex; justify-content: space-between; align-items: center;">
-  <span>1:04</span>
-  <span style="margin: 0 15px; letter-spacing: -1px;">██████░░░░░░░░░░░░░░</span>
-  <span>5:26</span>
-</div>
-
-<br/>
-
-<div style="display: flex; justify-content: center; gap: 25px; font-size: 1.8em; align-items: center; margin-bottom: 10px;">
-  <span style="opacity: 0.5; font-size: 0.8em;">🔀</span>
-  <span style="cursor: pointer;">⏮</span>
-  <span style="font-size: 1.3em; cursor: pointer;">▶</span>
-  <span style="cursor: pointer;">⏭</span>
-  <span style="opacity: 0.5; font-size: 0.8em;">🔁</span>
-</div>
 </td>
 </tr>
 </table>
